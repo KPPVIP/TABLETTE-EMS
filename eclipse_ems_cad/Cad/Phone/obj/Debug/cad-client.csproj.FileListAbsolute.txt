@@ -1,0 +1,12 @@
+D:\projects\gta5\marketplace\esx\txData\PlumeESX_86BBE6.base\resources\eclipse_cad\client.net.dll
+D:\projects\gta5\marketplace\esx\txData\PlumeESX_86BBE6.base\resources\eclipse_cad\client.net.pdb
+D:\projects\gta5\marketplace\eclipse_cad\Cad\Phone\obj\Debug\cad-client.csproj.CoreCompileInputs.cache
+D:\projects\gta5\marketplace\eclipse_cad\Cad\Phone\obj\Debug\cad-client.csproj.CopyComplete
+D:\projects\gta5\marketplace\eclipse_cad\Cad\Phone\obj\Debug\client.net.dll
+D:\projects\gta5\marketplace\eclipse_cad\Cad\Phone\obj\Debug\client.net.pdb
+D:\projects\gta5\marketplace\esx\txData\PlumeESX_86BBE6.base\resources\eclipse_EmsCad\client.net.dll
+D:\projects\gta5\marketplace\esx\txData\PlumeESX_86BBE6.base\resources\eclipse_EmsCad\client.net.pdb
+D:\projects\gta5\marketplace\eclipse_ems_cad\Cad\Phone\obj\Debug\cad-client.csproj.CoreCompileInputs.cache
+D:\projects\gta5\marketplace\eclipse_ems_cad\Cad\Phone\obj\Debug\cad-client.csproj.CopyComplete
+D:\projects\gta5\marketplace\eclipse_ems_cad\Cad\Phone\obj\Debug\client.net.dll
+D:\projects\gta5\marketplace\eclipse_ems_cad\Cad\Phone\obj\Debug\client.net.pdb
